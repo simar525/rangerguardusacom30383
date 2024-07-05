@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://RangerGuard.net/$1"
+ }
+  ]
+}
